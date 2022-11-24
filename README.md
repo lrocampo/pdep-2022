@@ -1,3 +1,3 @@
-# enunciados-miercoles-noche
+# Paradigmas De Programación UTN FRBA
 
-Repositorio donde guardaremos las cosas que necesitemos para la cursada del miércoles a la noche, ambos cursos.
+Archivo de enunciados de la cursada de PdeP - 2022 Miercoles Noche.
